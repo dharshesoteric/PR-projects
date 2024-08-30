@@ -1,2 +1,2 @@
 # PR-projects
-Projects made from C, Java and Python.
+Projects made using C, Java and Python.
